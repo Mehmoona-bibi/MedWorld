@@ -1,0 +1,50 @@
+Name of project: 
+  MedWorld
+Group members
+  Ramsha Tariq  111191
+  Sarah Irfan		111070
+  Mehmoona Bibi	111299
+Problem Area
+  Health is a major issue nowadays. People have to buy different medicines every now and then. With the discovery of new and improved medicines for different diseases there’s a huge possibility of production of illegal and fatal medicines by cheater companies. The problem faced by majority is the non availability of registered and authentic medicines and medical stores. Though medicines and medical stores are out there in abundance, most of people are not sure that the medicine they just bought is either registered / authentic or not. There must be a solution to this problem, which could let a common man to test the authenticity of the medicine and the medical store from where he is buying that medicine. 
+  Secondly, the problem faced by public is availability of medicines which are sold at a higher cost than their actual costs. This causes difficulty to the customers because they have to buy expensive medicines. This is a problem especially for the middle and lower class people that cannot afford to buy at such raised costs. 
+  Last but not the least, there are some unprofessional doctors out there who prescribe unregistered medicines just to earn some extra money at the cost of precious lives. These false medicines may even lead to death of the patient. Strict actions must  be taken against these doctors. 
+Problem Statement
+  Illegal and unregistered medicines are being sold everyday. Shopkeepers may also sell medicines at a higher cost than their actual one. Secondly, doctors can also prescribe unregistered medicines to promote them. Thirdly, if you need a medicine you have to find a medical store and then check if the medicine is available or not.
+  Hence, people are put in difficulty as they have to buy the medicines at higher prices. It is quite clear that there should be a system that keeps a check on prices and takes a feedback from the user if he faces any kind of problem in getting registered medicines or is prescribed an unregistered medicine. 
+
+Solution
+  Our solution is an app which will help a common man to get registered medicines from registered stores at the real price. If the price is greater than the intended price he can make a complain through our app. He will also be able to complain against a doctor who prescribed the unregistered medicines.
+Functions
+  The app will perform following functions:
+    Locate the position of the user
+    Locate the nearby registered stores, clinics or hospitals for the user
+    Would have the data of registered stores and medicines
+    Would have the data of medicines in a store
+    User could give feedback on the prices of stores 
+    User can give feedback on the doctors if someone prescribed unregistered medicine
+    The concerned authority will be notified
+Tools and languages
+  Android studio
+  MySQL
+  Java
+
+Solution's Novelty
+  The novelty of our system comes with the fact that the app would be available to a common man who can take advantage. It can be really useful to Drug Regulatory Authority of Pakistan(DRAP) and Ministry of Health. 
+  Ministry of Health publish medicines and their prices every year but these are not reachable by a common man. So, our app will not only make it available to a common man but will help to reduce the cases of unregistered medicines and illegal prices. 
+Timeline of Completion
+  Software elicitation
+    The first stage is to collect requirements from the stakeholders.i.e. Customers, Medical store owners and Ministry of health. We will get to know the user expectations in this step. Then we will analyze the requirements to determine the design.
+    Timeline for this phase is two weeks.i.e. 13th march to 27th march. 
+  Prototyping and Design phase
+    The second stage is defining the system architecture, its modules and components to satisfy the above requirements.
+    Timeline for System Design is two week i.e. 3 April 2017 to 14th April 2017.
+  Development phase
+    The actual development phase.
+    Timeline for development is four weeks i.e. 17th April 2017 to 14th May 2017.
+  Testing phase
+    The testing phase.
+    Timeline for testing is two week i.e. 15th May 2017 to 26th May 2017.
+
+Github Link:
+  https://github.com/Mehmoona-bibi/MedWorld
+
